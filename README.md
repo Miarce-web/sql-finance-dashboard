@@ -1,16 +1,16 @@
-# 💰 Personal Finance Dashboard — SQL Project
+# Personal Finance Dashboard — SQL Project
 
 A beginner-to-intermediate SQL project built with PostgreSQL, modelling a personal finance tracking system. This project demonstrates core SQL skills relevant to the financial services industry.
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project builds a relational database to track personal finances — accounts, spending categories, and transactions — and uses SQL queries to analyse spending patterns, income vs expenses, and running balances.
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 Three linked tables form the foundation of the dashboard:
 
@@ -36,7 +36,7 @@ transactions
 
 ---
 
-## 🔍 Queries Included
+## Queries Included
 
 ### 1. Total Spending by Category
 ```sql
@@ -103,7 +103,7 @@ ORDER BY rank;
 
 ---
 
-## 💡 SQL Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 | Concept | Used In |
 |---|---|
@@ -118,7 +118,7 @@ ORDER BY rank;
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install PostgreSQL and DBeaver
 2. Create a database called `finance_dashboard`
@@ -128,6 +128,6 @@ ORDER BY rank;
 
 ---
 
-## 👤 Author
+## Author
 
 Built as part of a self-directed SQL learning programme focused on financial services applications.
